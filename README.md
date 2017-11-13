@@ -1,0 +1,3 @@
+# ThermoFlex2017
+This is the design and realization of an electrical system of a thermoforming machine, this machine has the function of manufacturing dental prostheses. The machine contains an oven that will be heated first depending on the type of material used, then after reaching the desired temperature, a notification message will be displayed to the user to insert the cartridge that will be heated too, then a cylinder will push the cartridge against the mold, allowing it to take the desired shape.
+After forming, a maintenance time is required for the cartridge to cool down and take shape, then the cylinder returns to the rest position, and cartridge can thus be retained.
